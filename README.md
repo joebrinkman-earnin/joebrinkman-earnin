@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @joebrinkman-earnin and I do cloud engineering at Earnin.
+- 👋 Hi, I’m @joebrinkman-earnin and I do platform engineering at Earnin.
 - 👀 I’m interested in infrastructure-as-code, specifically Terraform.
 - 🌱 I’m currently learning how to manage Kubernetes.
 - 💞️ I’m looking to collaborate on anything related to Terraform.
